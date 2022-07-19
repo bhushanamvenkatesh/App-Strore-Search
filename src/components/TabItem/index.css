@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.each-list-item {
+  color: #7b8794;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.button {
+  border: none;
+  padding: 10px;
+}
+
+.under-line {
+  text-decoration: underline #2563eb;
+  font-weight: bold;
+  color: #2563eb;
+}

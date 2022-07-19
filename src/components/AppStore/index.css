@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.appStore-bg-container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.search-image {
+  height: 15px;
+  width: 15px;
+  background-color: transparent;
+  margin: 5px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+  width: 405px;
+  height: 25px;
+  border-radius: 5px;
+  align-items: center;
+}
+.input-element {
+  outline: none;
+  border: none;
+  width: 400px;
+  height: 30px;
+  background-color: transparent;
+}
+
+h1 {
+  font-family: 'bree serif';
+}
+.tab-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+.app-item-container {
+  display: flex;
+  width: 600px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

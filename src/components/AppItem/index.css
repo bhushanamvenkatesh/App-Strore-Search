@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.each-project-container {
+  height: 155px;
+  width: 155px;
+  border-radius: 12px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.project-image {
+  height: 50px;
+  width: 60px;
+}
+p {
+  font-family: 'bree serif';
+}
